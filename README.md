@@ -3,7 +3,7 @@ Integrantes:
 - Leonardo Blau
 - Andrey
 - Henrique
-- Lucas Ferreira
+- Lucas Ferreira (Scrum Master)
 - Ricardo
 
 Informações básicas:
